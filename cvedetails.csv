@@ -1,0 +1,51 @@
+,Product Name,Vendor Name,Product Type,Number of Vulnerabilities
+1,Debian Linux,Debian,OS,8565
+2,Android,Google,OS,6680
+3,Fedora,Fedoraproject,OS,4845
+4,Ubuntu Linux,Canonical,OS,3984
+5,Linux Kernel,Linux,OS,3371
+6,Chrome,Google,Application,3282
+7,Windows Server 2016,Microsoft,OS,3272
+8,Mac Os X,Apple,OS,3182
+9,Iphone Os,Apple,OS,3176
+10,Windows 10,Microsoft,OS,3081
+11,Windows Server 2008,Microsoft,OS,2826
+12,Windows Server 2019,Microsoft,OS,2771
+13,Windows Server 2012,Microsoft,OS,2740
+14,Firefox,Mozilla,Application,2510
+15,Windows 7,Microsoft,OS,2369
+16,Windows 8.1,Microsoft,OS,2214
+17,Windows Rt 8.1,Microsoft,OS,2017
+18,Leap,Opensuse,OS,1886
+19,Enterprise Linux Desktop,Redhat,OS,1870
+20,Enterprise Linux Server,Redhat,OS,1827
+21,Enterprise Linux Workstation,Redhat,OS,1786
+22,Acrobat Reader Dc,Adobe,Application,1684
+23,Acrobat Dc,Adobe,Application,1684
+24,Internet Explorer,Microsoft,Application,1630
+25,Tvos,Apple,OS,1594
+26,Enterprise Linux,Redhat,OS,1545
+27,Safari,Apple,Application,1412
+28,Opensuse,Opensuse,OS,1383
+29,Watchos,Apple,OS,1366
+30,Thunderbird,Mozilla,Application,1310
+31,Macos,Apple,OS,1270
+32,Acrobat,Adobe,Application,1257
+33,Mysql,Oracle,Application,1225
+34,Flash Player,Adobe,Application,1084
+35,Windows Server 2022,Microsoft,OS,1071
+36,Ipados,Apple,OS,1060
+37,Firefox Esr,Mozilla,Application,1055
+38,Enterprise Linux Server Aus,Redhat,OS,990
+39,Acrobat Reader,Adobe,Application,984
+40,Gitlab,Gitlab,Application,929
+41,Itunes,Apple,Application,917
+42,Oncommand Insight,Netapp,Application,852
+43,Windows Vista,Microsoft,OS,832
+44,Office,Microsoft,Application,807
+45,Windows Xp,Microsoft,OS,738
+46,Mdm9650 Firmware,Qualcomm,OS,735
+47,JRE,Oracle,Application,733
+48,Enterprise Linux Server Tus,Redhat,OS,733
+49,Mdm9206 Firmware,Qualcomm,OS,731
+50,Mdm9607 Firmware,Qualcomm,OS,730
