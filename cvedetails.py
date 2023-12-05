@@ -22,7 +22,7 @@ with open("cvedetails.csv", mode="w", newline="") as file:
 
         # loop every th
         for data in table_th:
-            # append each th tag content to row data
+            # append each th tag content to row_data
             row_data.append(data.text)
 
         # find td
@@ -32,10 +32,10 @@ with open("cvedetails.csv", mode="w", newline="") as file:
         for data in table_data:
             # check anchor tag if exists
             if (data.get_attribute(By.LINK_TEXT) != None):
-                # anchor tag if exists append its text content to row data
+                # anchor tag if exists append its text content to row_data
                 row_data.append(data.get_attribute(By.LINK_TEXT))
             else:
-                # otherwise append td content to row data
+                # otherwise append td content to row_data
                 row_data.append(data.text)
         print(row_data, end='\n')
 
